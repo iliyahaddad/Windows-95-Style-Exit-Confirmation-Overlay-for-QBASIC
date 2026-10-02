@@ -1,4 +1,4 @@
-# Windows 95 Style Exit Confirmation Overlay for QBASIC
+# Windows 95 Style Exit Confirmation Overlay For MSDos Apps By QBASIC
 
 A QBASIC implementation of a Windows 95-style shutdown/exit confirmation overlay that preserves application state and screen content without restarting the program.
 
